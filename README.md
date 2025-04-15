@@ -43,7 +43,7 @@ Feel free to reach out and let's make something awesome together! 🤝
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=InsomniacScribbler&theme=radical)](https://github.com/InsomniacScribbler)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 <!---
 InsomniacScribbler/InsomniacScribbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
