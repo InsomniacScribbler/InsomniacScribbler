@@ -15,7 +15,20 @@
 - 📫 Instagram: [@_nikhilzzz_](https://instagram.com/_nikhilzzz_)
 - ⚡ Fun Fact: I live for Esports 🎮 and yeah — I might drop a Shayari if the vibe’s right 😄
 
-![Snake animation](https://github.com/InsomniacScribbler/InsomniacScribbler/blob/output/github-contribution-grid-snake.svg)
+### Let's Connect! 🌐
+
+I'm always up for discussing tech, collaborating on cool projects, or just having a chat. Feel free to reach out to me through any of the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-singh-776045259)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhnikhilsingh21@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nikhilzzz_)
+
+---
+
+
+
+Feel free to reach out and let's make something awesome together! 🤝
+
 
 
 
