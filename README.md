@@ -7,7 +7,11 @@
 - ⚡ Fun fact: Apart from my love for code. I absolutely would die for Esports. Also if ya meet me in a bar I might have a few shayaris up my sleve
 
 
+### 🚀 My GitHub Stats
+
 ![InsomniacScribbler's Contributions](https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&count_private=true&include_all_commits=true&hide=issues&custom_title=Total%20Contributions&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=InsomniacScribbler&theme=radical)](https://github.com/InsomniacScribbler)
 
 
 <!---
