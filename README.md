@@ -15,9 +15,12 @@
 - 📫 Instagram: [@_nikhilzzz_](https://instagram.com/_nikhilzzz_)
 - ⚡ Fun Fact: I live for Esports 🎮 and yeah — I might drop a Shayari if the vibe’s right 😄
 
+![Snake animation](https://github.com/InsomniacScribbler/InsomniacScribbler/blob/output/github-contribution-grid-snake.svg)
 
 
-🌌 [My GitHub Skyline](https://skyline.github.com/InsomniacScribbler)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsomniacScribbler&layout=compact&theme=radical)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
