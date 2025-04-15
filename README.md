@@ -5,7 +5,10 @@
 - 📫 How to reach me ... on Instagram @_nikhilzzz_
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Apart from my love for code. I absolutely would die for Esports. Also if ya meet me in a bar I might have a few shayaris up my sleve
-[![trophy](https://github-profile-trophy.vercel.app/?username=InsomniacScribbler&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![InsomniacScribbler's Contributions](https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&count_private=true&include_all_commits=true&hide=issues&custom_title=Total%20Contributions&theme=radical)
+
 
 <!---
 InsomniacScribbler/InsomniacScribbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
