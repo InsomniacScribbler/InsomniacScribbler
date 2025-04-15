@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @InsomniacScribbler
-- 👀 I’m interested in C++,JAVA,DSA, Cybersecurity and Developments
-- 🌱 I’m currently doing Bachelors in Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... on Instagram @_nikhilzzz_
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Apart from my love for code. I absolutely would die for Esports. Also if ya meet me in a bar I might have a few shayaris up my sleve
+### 🙋‍♂️ About Me
+
+- 👨‍💻 @InsomniacScribbler | Java Backend Developer & Cybersecurity Enthusiast
+- 🎓 B.E. in Computer Engineering (in progress)
+- 💻 Technologies I use:  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-blue)
+- 🛠️ Projects: Phishing Link Scanner (Python), Java Firewall Simulation, and Software Firewall with JnetPcap
+- 🌱 Currently diving into: Spring Boot, REST APIs & solving 250 DSA questions (Java)
+- 🤝 Open to collaborate on: Java backend, security tools & real-world solutions
+- 📫 Instagram: [@_nikhilzzz_](https://instagram.com/_nikhilzzz_)
+- ⚡ Fun Fact: I live for Esports 🎮 and yeah — I might drop a Shayari if the vibe’s right 😄
+
+
+
+🌌 [My GitHub Skyline](https://skyline.github.com/InsomniacScribbler)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ### 🚀 My GitHub Stats
@@ -13,6 +27,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=InsomniacScribbler&theme=radical)](https://github.com/InsomniacScribbler)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!---
 InsomniacScribbler/InsomniacScribbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
