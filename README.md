@@ -3,7 +3,15 @@
 # 👨‍💻 InsomniacScribbler
 
 Java Backend Developer & Cybersecurity Enthusiast  
-🎓 B.E. in Computer Engineering | 🚀 Open to Collaborations  
+🎓 B.E. in Computer Engineering | 🚀 Always Building | 🧠 Always Learning
+
+---
+
+## 🙋‍♂️ About Me
+
+💻 I'm a code-after-dark kinda developer who's passionate about backend development and making the digital world a safer place.  
+🎮 I live for Esports, and sometimes I drop a Shayari or two if the vibe feels right.  
+🧩 I love solving problems, building secure systems, and exploring the depths of Java and Cybersecurity.
 
 ---
 
@@ -22,18 +30,19 @@ Java Backend Developer & Cybersecurity Enthusiast
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Featured Projects
 
-- 🔐 **Phishing Link Scanner** *(Python)*  
-- 🔥 **Java Firewall Simulation**  
-- 🧱 **Software Firewall** *(JnetPcap)*  
+- 🔐 **Phishing Link Scanner** *(Python)* – detects malicious URLs using pattern-based analysis  
+- 🔥 **Java Firewall Simulation** – rule-based filtering and access control  
+- 🧱 **Software Firewall** *(JnetPcap)* – deep packet inspection & network protection
 
 ---
 
-## 📌 Currently Working On
+## 🚧 Currently Working On
 
-- Spring Boot & REST APIs  
-- 250 DSA Questions in Java  
+- 🧪 Building RESTful APIs using Spring Boot  
+- 🧠 Tackling the [250 DSA Problem Challenge](https://github.com/InsomniacScribbler) (Java)  
+- 🛡️ Designing small cybersecurity tools and utilities for fun & learning
 
 ---
 
@@ -53,6 +62,6 @@ Java Backend Developer & Cybersecurity Enthusiast
 
 ---
 
-⚡ *Esports lover, Shayari dropper, and code-after-dark kinda guy.*
+⚡ *“In a world full of bugs, be the exception.”*
 
 </div>
