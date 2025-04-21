@@ -57,11 +57,11 @@ Java Backend Developer & Cybersecurity Enthusiast
 ## 📊 GitHub Insights
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsomniacScribbler&layout=compact&theme=radical)  
-![GitHub Metrics](https://metrics.lecoq.io/InsomniacScribbler?template=classic&config.timezone=Asia%2FKolkata)  
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=github-compact)
 
 ---
 
-⚡ *“In a world full of bugs, be the exception.”*
+⚡ *“Roses are red, Indigo is blue, Indentation error on line 32”*
 
 </div>
