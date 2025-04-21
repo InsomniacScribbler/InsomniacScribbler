@@ -1,67 +1,84 @@
-<div align="center" style="padding: 20px; border-radius: 15px; background-color: #0d1117; color: #ffffff; border: 2px solid #39FF14; box-shadow: 0 0 12px #39FF14;">
+<h1 align="center">Hey 👋, I'm Nikhil Singh</h1>
+<h3 align="center">Java Backend Developer | Cybersecurity Enthusiast</h3>
 
-# 👨‍💻 InsomniacScribbler
+<p align="center">
+🚀 Crafting secure and scalable Java-based backend systems with a flair for cybersecurity. <br>
+🛡️ Passionate about building firewalls, phishing scanners, and tools that <i>actually</i> protect users. <br>
+🎓 Final Year B.E. Computer Engineering | Actively learning and building with Spring Boot & REST APIs. <br>
+🧠 Currently solving 250 DSA Questions in Java | Learning Spring Security. <br>
+👨‍💻 Internship experience in network security: phishing link scanners, firewall simulation, and JnetPcap-based software firewall. <br>
+🎮 Esports fan & Shayari mood switcher.
+</p>
 
-Java Backend Developer & Cybersecurity Enthusiast  
-🎓 B.E. in Computer Engineering | 🚀 Always Building | 🧠 Always Learning
-
----
-
-## 🙋‍♂️ About Me
-
-💻 I'm a code-after-dark kinda developer who's passionate about backend development and making the digital world a safer place.  
-🎮 I live for Esports, and sometimes I drop a Shayari or two if the vibe feels right.  
-🧩 I love solving problems, building secure systems, and exploring the depths of Java and Cybersecurity.
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-blue?style=for-the-badge)
-
-</div>
+<!-- Optional Portfolio Section
+<p align="center">🌐 Portfolio: <a href="https://your-portfolio.com">your-portfolio.com</a></p>
+-->
 
 ---
 
-## 🛠️ Featured Projects
+<h2 align="center">🌐 Let's Connect!</h2>
 
-- 🔐 **Phishing Link Scanner** *(Python)* – detects malicious URLs using pattern-based analysis  
-- 🔥 **Java Firewall Simulation** – rule-based filtering and access control  
-- 🧱 **Software Firewall** *(JnetPcap)* – deep packet inspection & network protection
-
----
-
-## 🚧 Currently Working On
-
-- 🧪 Building RESTful APIs using Spring Boot  
-- 🧠 Tackling the [250 DSA Problem Challenge](https://github.com/InsomniacScribbler) (Java)  
-- 🛡️ Designing small cybersecurity tools and utilities for fun & learning
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-singh-776045259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:singhnikhilsingh21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_nikhilzzz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌍 Connect with Me
+<h2 align="center">💻 Tech Stack</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-singh-776045259)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhnikhilsingh21@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nikhilzzz_)
+<h3 align="center">🧠 Languages & Backend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<h3 align="center">🔐 Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JnetPcap-007ACC?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+<h3 align="center">☁️ Tools & Productivity</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Insights
+<h2 align="center">🛠️ Projects</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsomniacScribbler&layout=compact&theme=radical)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=github-compact)
+<p align="center">
+🔐 <strong>Phishing Link Scanner</strong> (Python)<br>
+🛡️ <strong>Java Firewall Simulation</strong><br>
+🧱 <strong>Software Firewall</strong> (JnetPcap)
+</p>
 
 ---
 
-⚡ *“Roses are red, Indigo is blue, Indentation error on line 32”*
+<h2 align="center">📈 GitHub Stats</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&theme=radical" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsomniacScribbler&layout=compact&theme=radical" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react-dark&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+<p align="center"><strong>⚡ Code. Secure. Repeat. And maybe vibe with some Esports and Shayari in between.</strong></p>
