@@ -10,16 +10,12 @@
 🎮 Esports fan & Shayari mood switcher.
 </p>
 
-<!-- Optional Portfolio Section
-<p align="center">🌐 Portfolio: <a href="https://your-portfolio.com">your-portfolio.com</a></p>
--->
-
 ---
 
 <h2 align="center">🌐 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikhil-singh-776045259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nikhil-singh-776045259"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:singhnikhilsingh21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/_nikhilzzz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -31,7 +27,7 @@
 <h3 align="center">🧠 Languages & Backend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,23 +36,25 @@
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h3 align="center">🔐 Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
   <img src="https://img.shields.io/badge/JnetPcap-007ACC?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
 <h3 align="center">☁️ Tools & Productivity</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
@@ -67,6 +65,14 @@
 🔐 <strong>Phishing Link Scanner</strong> (Python)<br>
 🛡️ <strong>Java Firewall Simulation</strong><br>
 🧱 <strong>Software Firewall</strong> (JnetPcap)
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=InsomniacScribbler&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
