@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=500&lines=System+Booting...;Loading+Nikhil+Singh();Backend+Developer+%7C+Cybersecurity+Enthusiast;Passion+%3D+Code+%2B+Security+%2B+Shayari;Welcome+to+my+GitHub+Terminal!">
+</p>
+
 <h1 align="center">Hey 👋, I'm Nikhil Singh</h1>
 <h3 align="center">Java Backend Developer | Cybersecurity Enthusiast</h3>
 
@@ -45,6 +49,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
   <img src="https://img.shields.io/badge/JnetPcap-007ACC?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 <h3 align="center">☁️ Tools & Productivity</h3>
@@ -72,7 +78,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InsomniacScribbler&theme=onedark&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=InsomniacScribbler&theme=monokai&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Commits,Repositories,Stars,Follower,PullRequest,Issues"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rainbow%20Language%20User-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-informational?style=for-the-badge&labelColor=DB00FF&color=9400D3" />
 </p>
 
 ---
