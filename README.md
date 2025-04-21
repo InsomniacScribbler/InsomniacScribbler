@@ -81,9 +81,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=InsomniacScribbler&theme=monokai&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Commits,Repositories,Stars,Follower,PullRequest,Issues"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rainbow%20Language%20User-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-informational?style=for-the-badge&labelColor=DB00FF&color=9400D3" />
-</p>
+
 
 ---
 
