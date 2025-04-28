@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=500&lines=System+Booting...;Loading+Nikhil+Singh();Backend+Developer+%7C+Cybersecurity+Enthusiast;Passion+%3D+Code+%2B+Security+%2B+Shayari;Welcome+to+my+GitHub+Terminal!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=500&lines=System+Booting...;Loading+Nikhil+Singh();Backend+Developer+%7C+Cybersecurity+Enthusiast;Passion+%3D+Code+%2B+Security+%2B+Shayari;Welcome+to+my+GitHub+Terminal!" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Nikhil Singh</h1>
