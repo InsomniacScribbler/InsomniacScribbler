@@ -75,7 +75,7 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 </table>
 <h2 align="center">📊 GitHub Stats</h2>
 
-<br>
+
 <h2 align='center'><i><a href="https://github.com/InsomniacScribbler/github-readme-activity-graph">Activity Graph 📈</a></i></h2>
 <p align="center">
 <a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
