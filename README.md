@@ -1,4 +1,4 @@
-<h2 align='center'><i>Hello, Folks!</i></h2>  
+<h2 align='center'><i>Hello, Folks!</i></h2>
 
 <img align="right" src="https://github.com/InsomniacScribbler/github-stats-transparent/blob/output/generated/overview.svg" width="400">
 
@@ -39,9 +39,7 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 <a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+
 </p>
 
 </br>
@@ -68,16 +66,7 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-ar21.svg">
-    </td>
-    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="60"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/intellijidea/intellijidea-icon.svg" width="60"/>
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60"/>
@@ -85,13 +74,4 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
 
-<p align="center">
-<a href="https://github.com/InsomniacScribbler/OYO-Rooms-Clone">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=InsomniacScribbler&repo=OYO-Rooms-Clone&theme=vue-dark&hide_border=true" height="185">
-</a>
-<a href="https://github.com/InsomniacScribbler/Phishing-Link-Detector">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=InsomniacScribbler&repo=Phishing-Link-Detector&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
