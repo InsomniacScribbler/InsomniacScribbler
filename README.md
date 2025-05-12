@@ -78,9 +78,11 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 
 <h2 align='center'><i><a href="https://github.com/InsomniacScribbler/github-readme-activity-graph">Activity Graph 📈</a></i></h2>
 <p align="center">
-<a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
+  <a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
