@@ -32,17 +32,17 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 </tr>
 </table>
 
+<br>
+
+
 </br>
 
-<h2 align='center'><i><a href="https://github.com/InsomniacScribbler/github-readme-activity-graph">Activity Graph 📈</a></i></h2>
+<h2 align='center'><i>Daily Commits Graph 📅</i></h2>
 <p align="center">
-<a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&hide_border=true&area=true&custom_title=Daily%20Commits" width="100%">
 </p>
 
-</br>
+<br>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
@@ -76,12 +76,6 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 <h2 align="center">📊 GitHub Stats</h2>
 
 
-<h2 align='center'><i><a href="https://github.com/InsomniacScribbler/github-readme-activity-graph">Activity Graph 📈</a></i></h2>
-<p align="center">
-  <a href="https://github.com/InsomniacScribbler/github-readme-activity-graph#gh-light-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-  </a>
-</p>
 
 
 <p align="center">
@@ -92,5 +86,3 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InsomniacScribbler&theme=github_dark" width="95%"/>
 </p>
-
-
