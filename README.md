@@ -32,17 +32,16 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning%20Java%20Backend%20Development-blue?style=for-the-badge&logo=java" alt="Currently Learning">
+</p>
 
-
-</br>
+<h3 align="center"><i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i></h3>
 
 <h2 align='center'><i>Daily Commits Graph 📅</i></h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react&hide_border=true&area=true&custom_title=Daily%20Commits" width="100%">
 </p>
-
-<br>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
@@ -73,10 +72,8 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
     </td>
 </tr>
 </table>
+
 <h2 align="center">📊 GitHub Stats</h2>
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
@@ -86,3 +83,11 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InsomniacScribbler&theme=github_dark" width="95%"/>
 </p>
+
+## 🚀 Projects
+
+- [**OYO Rooms Clone**](https://github.com/InsomniacScribbler/oyo-rooms-clone): A dynamic hotel booking web application built with React.js, Redux, Spring Boot, and MySQL.
+- [**Phishing Link Scanner**](https://github.com/InsomniacScribbler/phishing-link-scanner): Python-based tool for detecting phishing links.
+- [**Software Firewall**](https://github.com/InsomniacScribbler/software-firewall): A Java-based firewall using JnetPcap.
+
+Check out all my projects on [GitHub](https://github.com/InsomniacScribbler).
