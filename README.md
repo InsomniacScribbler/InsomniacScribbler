@@ -84,10 +84,21 @@ _Hello there! I'm **Nikhil Singh**, passionate about backend development and cyb
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InsomniacScribbler&theme=github_dark" width="95%"/>
 </p>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [**OYO Rooms Clone**](https://github.com/InsomniacScribbler/oyo-rooms-clone): A dynamic hotel booking web application built with React.js, Redux, Spring Boot, and MySQL.
-- [**Phishing Link Scanner**](https://github.com/InsomniacScribbler/phishing-link-scanner): Python-based tool for detecting phishing links.
-- [**Software Firewall**](https://github.com/InsomniacScribbler/software-firewall): A Java-based firewall using JnetPcap.
+<p align="center">
+  <a href="https://github.com/InsomniacScribbler/oyo-rooms-clone">
+    <img src="https://img.shields.io/badge/OYO%20Rooms%20Clone-React%20%7C%20Spring%20Boot%20%7C%20MySQL-lightgrey?style=for-the-badge&logo=react" alt="OYO Rooms Clone" />
+  </a>
+  <a href="https://github.com/InsomniacScribbler/phishing-link-scanner">
+    <img src="https://img.shields.io/badge/Phishing%20Link%20Scanner-Python-brightgreen?style=for-the-badge&logo=python" alt="Phishing Link Scanner" />
+  </a>
+  <a href="https://github.com/InsomniacScribbler/software-firewall">
+    <img src="https://img.shields.io/badge/Software%20Firewall-Java%20%7C%20JnetPcap-orange?style=for-the-badge&logo=java" alt="Software Firewall" />
+  </a>
+</p>
 
-Check out all my projects on [GitHub](https://github.com/InsomniacScribbler).
+---
+
+🔗 Check out all my projects on [GitHub](https://github.com/InsomniacScribbler).
+
