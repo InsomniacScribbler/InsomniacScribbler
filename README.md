@@ -5,60 +5,65 @@
 *Hello there! I'm* **Nikhil Singh**, passionate about backend development and cybersecurity. Currently learning Spring Boot, REST APIs, and diving deep into Java backend development. You can find my DSA journey and full-stack experiments down below.
 
 ## 🌐 **Portfolio & Connect**
-<p align='center'>
+
+<div align="center">
+
+### 🚀 **Visit My Portfolio**
+<a href="https://insomniacscribbler.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌟%20PORTFOLIO%20WEBSITE-EXPLORE%20NOW-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2C3E50" alt="Portfolio Website" height="50"/>
+</a>
+
+<br><br>
+
+### 🤝 **Let's Connect!**
+<p>
   <a href="https://insomniacscribbler.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌟%20Portfolio%20Website-Visit%20Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-singh-776045259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://www.instagram.com/nikhilzzz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
+  </a>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
   </a>
 </p>
 
-<h3 align='center'><i>Let's Connect!</i></h3>
-<p align='center'>
-<table align='center'>
-<tr>
-    <td align='center' width="80">
-        <a href="https://insomniacscribbler.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="30"/>
-        </a>
-    </td>
-    <td align='center' width="80">
-        <a href="https://www.linkedin.com/in/nikhil-singh-776045259/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-        </a>
-    </td>
-    <td align='center' width="80">
-        <a href="https://www.instagram.com/nikhilzzz/" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
-        </a>
-    </td>
-    <td align='center' width="80">
-        <a href="https://twitter.com/your_twitter_handle" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30"/>
-        </a>
-    </td>
-</tr>
-</table>
-</p>
+</div>
 
 ---
 
 ## 🎯 **Current Focus**
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Currently%20Learning-Java%20Backend%20Development-blue?style=for-the-badge&logo=java&logoColor=white" alt="Currently Learning">
+
+<div align="center">
+
+### 🔥 **Learning Journey**
+<p>
+  <img src="https://img.shields.io/badge/🚀%20Currently%20Learning-Java%20Backend%20Development-4285F4?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1a1a" alt="Currently Learning" height="40">
 </p>
 
-<table align='center'>
+### 🛠️ **Mastering These Technologies**
+<table align="center">
 <tr>
- <td align='center'>
-    <b>🚀 Mastering</b>
- </td>
- <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50">
- </td>
- <td align='center'>
-    <b>Spring Boot & REST APIs</b>
- </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="35"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" height="35"/>
+  </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring Boot Logo"/>
+  </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/Microservices-FF9500?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" height="35"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge&logo=architecture&logoColor=white" alt="System Design" height="35"/>
+  </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -74,24 +79,41 @@
 ---
 
 ## 🛠️ **Tech Stack & Tools**
+
 <div align="center">
 
-### **Backend & Databases**
+### 💻 **Backend & Databases**
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="35"/>
 </p>
 
-### **Frontend & Tools**
+### 🎨 **Frontend & Development Tools**
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
 </p>
+
+### 🔧 **Tools & Platforms**
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+</p>
+
+### 🚀 **Currently Exploring**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35"/>
+</p>
+
 </div>
 
 ---
