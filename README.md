@@ -64,7 +64,7 @@
 <div align="center">
 
 <!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=InsomniacScribbler&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&v=2" />
 
 <!-- Streak -->
 <br/>
@@ -89,4 +89,5 @@
   <p>Focused on robust backends, clean APIs, and pragmatic system design.</p>
   <p>© 2025 Nikhil Singh. All rights reserved.</p>
 </div>
+
 
