@@ -28,15 +28,7 @@
 
 # 💻 Tech Stack
 
-## 🧠 Machine Learning / Data
-<!-- keep if relevant, or remove this block -->
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</div>
+
 
 ## 🌐 Web & Backend
 <div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
@@ -97,3 +89,4 @@
   <p>Focused on robust backends, clean APIs, and pragmatic system design.</p>
   <p>© 2025 Nikhil Singh. All rights reserved.</p>
 </div>
+
