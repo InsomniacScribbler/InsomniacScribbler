@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">Backend Developer | Spring Boot | REST APIs</h3>
 
+<div align="center">
+
 # 💫 About Me
 🚀 Passionate about building reliable Java backend systems and microservices with clean architecture and strong observability.  
 🛠️ Working with Java, Spring Boot, REST APIs, MySQL, MongoDB, Docker, and AWS.  
@@ -8,7 +10,7 @@
 🌐 Portfolio: <a href="https://insomniacscribbler.vercel.app" target="_blank">insomniacscribbler.vercel.app</a>
 
 ## 🌐 Socials
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <a href="https://www.linkedin.com/in/nikhil-singh-776045259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -28,10 +30,8 @@
 
 # 💻 Tech Stack
 
-
-
 ## 🌐 Web & Backend
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/REST%20API-v1.1-FF6C37?style=flat-square&logo=postman&logoColor=white">
@@ -39,20 +39,20 @@
 </div>
 
 ## 🗄️ Databases
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ## ☁️ Cloud & DevOps
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ## 🛠️ Tools & IDEs
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -62,18 +62,14 @@
 
 # 📊 GitHub Stats
 <div align="center">
-
-
 <!-- Streak -->
 <br/>
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=InsomniacScribbler&theme=tokyonight&hide_border=true&card_width=420" height="160" />
 </a>
-
 <!-- Activity graph -->
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react-dark&hide_border=true&area=true&custom_title=Daily%20Commits" width="100%" />
-
 </div>
 
 <!-- Optional summary card row -->
@@ -88,5 +84,4 @@
   <p>© 2025 Nikhil Singh. All rights reserved.</p>
 </div>
 
-
-
+</div>
