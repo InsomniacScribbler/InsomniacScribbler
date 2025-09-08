@@ -129,7 +129,8 @@
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  <p>"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
   <p><strong>💼 Open to Backend Development Opportunities | 🚀 Building Scalable Systems</strong></p>
   <p>© 2025 Nikhil Singh. Focused on robust backends, clean APIs, and pragmatic system design.</p>
 </div>
+
