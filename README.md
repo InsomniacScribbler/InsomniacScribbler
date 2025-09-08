@@ -111,11 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=InsomniacScribbler&theme=tokyonight&hide_border=true&card_width=600" />
 </div>
 
-## ⏱️ WakaTime Weekly Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=InsomniacScribbler&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-</div>
 
 ## 📈 Contribution Activity
 
@@ -123,11 +119,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InsomniacScribbler&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
 </div>
 
-## 🎯 GitHub Metrics
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/InsomniacScribbler/InsomniacScribbler/main/github-metrics.svg" />
-</div>
 
 ## 💡 Developer Quote
 
@@ -152,3 +144,4 @@
   
   <p>© 2025 Nikhil Singh. Focused on robust backends, clean APIs, and pragmatic system design.</p>
 </div>
+
